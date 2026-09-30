@@ -1,0 +1,22 @@
+[
+  {
+    "family": "Oxanium",
+    "weight": 800,
+    "file": "Oxanium-Variable.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/oxanium/Oxanium%5Bwght%5D.ttf",
+    "gitBlobSha1": "ead485c7bf517197db91ef657614ac37d8007775",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/oxanium/OFL.txt",
+    "licenseFile": "OFL-Oxanium.txt"
+  },
+  {
+    "family": "Chakra Petch",
+    "weight": 600,
+    "file": "ChakraPetch-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-SemiBold.ttf",
+    "gitBlobSha1": "802d59875aac00ea246c5ff02e09e22e2ba78776",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/OFL.txt",
+    "licenseFile": "OFL-ChakraPetch.txt"
+  }
+]
